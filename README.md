@@ -17,7 +17,7 @@
 
 ![解析フロー](./file/image.png)
 
-![例]('./file/example_result.png')
+![例](./file/example_result.png)
 
 ## 3. 環境構築
 (1) Conda環境設定
