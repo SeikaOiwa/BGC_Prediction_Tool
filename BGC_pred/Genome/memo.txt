@@ -1,0 +1,11 @@
+NCBIへのアクセスサイト
+http:ftp.ncbi.nih.gov
+
+antismashへの接続サイト
+https://dl.secondarymetabolites.org/releases/
+https://ftp.ebi.ac.uk/pub/databases/Pfam/releases
+
+
+pubmed検索サイト
+https://dtd.nlm.nih.gov/
+http://eutils.ncbi.nlm.nih.gov/　

@@ -1,0 +1,4 @@
+log_data：
+・genomeデータ取得
+・antismash解析
+・pubmed検索/解析
