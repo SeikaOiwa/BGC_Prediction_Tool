@@ -34,13 +34,17 @@
 
 `wget https://dl.secondarymetabolites.org/releases/7.0.0/antismash-7.0.0.tar.gz`
 
-`tar -zxy antismash-7.0.0.tar.gz`
+`tar -zxvf antismash-7.0.0.tar.gz`
 
 `pip install ./antismash-7.0.0`
 
 `download-antismash-databases`
 
-`conda install hmmer2 hmmer diamond=2.0.15 fasttree prodigal blast muscle glimmerhmm`
+`conda install hmmer2 hmmer fasttree prodigal blast muscle`
+
+`conda install bioconda::diamond`
+
+`conda install bioconda::glimmerhmm`
 
 `conda install beautifulsoup4 lxml html5lib`
 
@@ -68,7 +72,7 @@
 
 (7) その他
 
-`pip install pandas`
+`conda install anaconda::pandas`
 
 `pip install openpyx`
 
